@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ja-cob
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Django
 
 <!---
 Ja-cob/Ja-cob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
